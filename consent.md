@@ -5,7 +5,7 @@ title: SMS Consent
 
 # SMS Consent
 
-Andrew Mack Uptime Alerts is a private personal infrastructure monitoring service. It is not open to the public.
+Uptime Alerts is a private personal infrastructure monitoring service. It is not open to the public.
 
 Before a phone number is added, the account owner asks the recipient:
 
